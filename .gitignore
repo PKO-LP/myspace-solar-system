@@ -13,3 +13,7 @@ dist/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Личные заметки пользователя
+data/notes.txt
+data/notes.tmp
